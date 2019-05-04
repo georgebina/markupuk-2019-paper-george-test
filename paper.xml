@@ -6,7 +6,7 @@
 		<author>
 			<personname>George Bina</personname>
 			<email><?oxy-placeholder content="Your email address"?></email>
-			<uri><?oxy-placeholder content="Your website"?></uri>
+			<uri>http://www.oxygenxml.com</uri>
 			<personblurb>
 				<para><?oxy-placeholder content="Details about you"?></para>
 			</personblurb>
